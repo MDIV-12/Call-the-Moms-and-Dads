@@ -1,0 +1,7 @@
+{
+  "name": "volunteer-call-router",
+  "description": "Telnyx call-routing function",
+  "require": {
+    "php": ">=8.1"
+  }
+}
